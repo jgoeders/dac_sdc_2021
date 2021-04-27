@@ -3,7 +3,7 @@ import time
 import xml.dom.minidom
 import pathlib
 
-DAC_CONTEST = pathlib.Path('/home/xilinx/jupyter_notebooks/dac_sdc_2020/')
+DAC_CONTEST = pathlib.Path('/home/xilinx/jupyter_notebooks/dac_sdc_2021/')
 IMG_DIR = DAC_CONTEST / 'images'
 RESULT_DIR = DAC_CONTEST / 'result'
     
